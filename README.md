@@ -1,2 +1,2 @@
-# Towards Detecting Harmful Agendas in News Articles
-Coming soon! Code and data for the paper - [Readinig Subtext: Evaluating Large Language Models on Short Story Summarization with Writers]().
+# Evaluating LLM Short Story Summarization with Writers
+Coming soon! Code and data for this paper: [Reading Subtext: Evaluating Large Language Models on Short Story Summarization with Writers]().
