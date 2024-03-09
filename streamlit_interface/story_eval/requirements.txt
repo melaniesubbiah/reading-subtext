@@ -1,0 +1,5 @@
+streamlit==1.24.0
+requests-cache
+st-pages
+shillelagh
+google-auth>=1.23.0

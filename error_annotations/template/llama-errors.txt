@@ -1,0 +1,173 @@
+Error 1
+Story Details: 
+<context>The narrator is stuck in a wine cellar for years searching for his favorite wine. Finally, he finds his favorite wine and then the room he entered the cellar from.</context>
+<quote>I felt a sense of wellbeing that I had never experienced before in my life, something akin to faith… 
+I walked along the room’s painted wall until I came upon a door. The handle turned easily. I found myself in a simple, square room with a table in its center, five glasses on the table, and a ladder leading upwards. Could it be? I was exactly where I started.</quote>
+Summary Details: 
+<context>The summary describes the narrator as being unconscious and not having awareness of how they got back to the starting room.</context>
+<quote>As Matthew navigates the labyrinthine cellar, he begins to question reality and loses track of time, eventually losing consciousness and experiencing vivid hallucinations. Upon awakening, <bold>he discovers that he has been transported back to the starting point of his journey…</bold></quote>
+
+Error 2
+Story Details: 
+<context>The narrator is in a recurring scene where they don’t know exactly what is going on but their romantic partner gets shot and then the scene restarts.</context>
+<quote>I know I need to stop it, anticipate it, do something different so it changes what happened.
+She’s shot. I’m devastated. It hurts to see it again. Do over?
+I reset. How is it resetting? I can’t tell how time is working. 
+—Hi, hello. I missed you.
+—I’ve been right here. 
+—Oh yeah. Come on. We have to go somewhere else now.</quote>
+Summary Details: 
+<context>The summary suggests that the woman is also aware something strange is going on which the brief dialogue in the story does not suggest.</context>
+<quote>One interesting aspect of the story is the way the protagonist's relationships with other characters evolve over the course of the time loops. In particular, <bold>his interactions with Sarah become increasingly strained as she begins to suspect that something strange is happening.</bold></quote>
+
+Error 3
+Story Details: 
+<quote>Daphne had asked Clarissa if they could bring along their cat Pasha. She wanted to purify her in the water, the way an Athenian might. Clarissa begged her not to, the water too cold for the poor cat's circulatory system, and so Pasha was left</quote>
+Summary Details:
+<context>The summary misgenders Pasha.</context>
+<quote>Daphne asks Clarissa if they can bring Pasha along to purify <bold>him</bold> in the water…</quote>
+
+Error 4
+Story Details: 
+<context>The narrator receives a lucky charm at the casino from an old man. It is Saint Agatha in a cup.</context>
+<quote>The old man handed her a plastic cup of water, a blue and dented one from the casino gift store. Inside the cup was the face of a woman... [REDACTED by author]</quote>
+Summary Details: 
+<context>The summary says Saint Agatha is a statue instead of a face in a cup of water.</context>
+<quote>Lucia encounters an older man at the casino who gives her a lucky charm, a <bold>statue</bold> of Saint Agatha, in exchange for a favor</quote>
+
+Error 5
+Story Details: 
+<context>The narrator describes her relationship with gardening:</context>
+<quote>My garden is mostly a series of sloppily-dug beds and mis-matched pots placed haphazardly around my yard: they are like the strewn toys of a child…
+I admit it is fascinating if not pleasurable to watch and participate in the dramas of my plants. I nurture tomato plants into sacred carnivorous monsters that first outgrow and then smother the gentler lives of flowering sage and thyme and even the boyish virility of mint…
+Or maybe I am wrong and it is that they know us, the plants, our dark-hole desires and remorse. Maybe it is they who keep us alive. Without gentleness, without loving us, even. Like the ground on which we all withstand. Do they give themselves over to teach us necessary lessons? Maybe we keep them around because they teach us about ourselves.</quote>
+Summary Details: 
+<context>The summary does not capture the same tone of how the narrator views gardening.</context>
+<quote>The protagonist describes their approach to gardening <bold>as practical and unsentimental, focusing on the science behind plant growth…</bold></quote>
+
+Error 6
+Story Details: 
+<context>The story mentions the character, Babe, with a male pronoun:</context>
+<quote>Babe opens the passenger door. He's got a bag…</quote>
+Summary Details: 
+<context>The summary describes Babe as a woman.</context>
+<quote>The story follows the adventures of <bold>two women</bold>, Babe and an unnamed protagonist…</quote>
+
+Error 7
+Story Details: 
+<context>Clem describes her photography to the narrator and then disappears.</context>
+<quote>Or, Clem continued, perhaps there were people smaller than a pixel... [REDACTED by author]... after all, anyone smaller than a pixel was a goner. Totally a goner…
+After that… She disappeared. I mean, we weren't too close, so maybe there's a different explanation, but I figured she turned herself into a pixel.</quote>
+Summary Details: 
+<context>The summary changes the ordering of events, suggesting that the narrator thinks Clem might become a pixel before she disappears.</context>
+<quote>[Clem] suggests that anything smaller than a pixel is insignificant and will go unnoticed by the camera. The protagonist <bold>begins to contemplate the idea that Clem has transformed herself into a pixel</bold>, becoming invisible to the naked eye. This thought is reinforced when Clem disappears shortly after…</quote>
+
+Error 8
+Story Details: 
+<context>The narrator’s mother has always wanted to eat a monkey’s brain.</context>
+<quote>Mom had wanted to eat a monkey's brain since before I was born.
+I've heard that eating a human brain can make you go crazy. There's a protein in there that the human body can't integrate into itself. It recognizes its own makeup, something like that. And there are subliminal effects, too, no doubt. We know this because some scientists went to Southeast Asia and studied the tribes there. They said the tribes suffered from neurodegeneration because of the brain-eating, but who can say what other factors there were. If they studied my Mom, they'd probably have come to the same conclusion and she hadn't even eaten any brains yet. If anything, that was the problem. Mom was fixated on the thought of it.</quote>
+Summary Details: 
+<context>The summary makes up a reason why the mom wants to eat a monkey’s brain.</context>
+<quote>The mother's fixation on eating a monkey's brain stems from her belief that it will give her <bold>telepathic abilities.</bold></quote>
+
+Error 9
+Story Details: 
+<context>The story describes the narrator’s parents.</context>
+<quote>When Paul got Mom pregnant with Jack, they got married at the town hall. They framed the certificate and put it on the wall in the living room. Jack's sports trophies went below it. Paul took out a loan almost immediately… to buy a minivan because he thought Mom wanted a minivan. Anyway, they've never gotten to do anything they've wanted to do and it makes me so sad… I know they've always wanted to live in a big city and Mom in particular I know wants to go to museums and stuff and she hates the coffee at Starbucks and so on… but they're never going to move anywhere. Paul spends all the money he makes on guns. Not the worst investment, honestly, but then he spends so much of his time in the basement cleaning them and I think Mom gets lonely… Mom says he's been having trouble sleeping. He's got this snoring thing that wakes him up, sounds like he's getting strangled… She says it's gotten worse.</quote>
+Summary Details: 
+<context>The summary mischaracterizes the relationship/intentions between the parents.</context>
+<quote>The protagonist's father spends <bold>excessively</bold> on weapons <bold>instead of fulfilling their mother's wishes</bold> to explore museums and culture…</quote>
+
+Error 10
+Story Details: 
+<context>Alex picks the narrator up at her house and the narrator gets in his car.</context>
+<quote>Alex called me and said he was outside my house. I met him on my driveway and climbed over the driver's seat into the passenger's side…
+As we drove… Alex turned down a gravel road that ended in a gate…</quote>
+Summary Details: 
+<context>The summary says the narrator picks Alex up instead.</context>
+<quote>Alex calls Caroline and claims he is waiting outside her house. <bold>Picking him up</bold>, they drive toward the nuclear site</quote>
+
+Error 11
+Story Details: 
+<quote>…the whole camp was playing Capture the Mattress (CTM) outside…</quote>
+Summary Details: 
+<context>The summary uses the wrong name for the game.</context>
+<quote>Later, during a game of <bold>capture the flag…</bold></quote>
+
+Error 12
+Story Details: 
+<context>The narrator wants to get pregnant with her partner but they are having trouble conceiving, so instead she asks their friend Dave, who is also helping them with money, to impregnate her in secret.</context>
+<quote>I say, I need three things from you, Dave, first, I need money; second, I need you not to say a goddamn thing about this; and, third, I need you to fucking come in me</quote>
+Summary Details: 
+<context>The summary changes the third thing the narrator asks for.</context>
+<quote>Later, the protagonist demands three things from Dave: money, silence, and <bold>the chance to experience orgasmic pleasure</bold></quote>
+
+Error 13
+Story Details: 
+<context>The narrator is rebellious and smokes a lot of weed. He does not want to be at camp and is not participating in activities, sneaking off to smoke instead.</context>
+<quote>It was the first year after his dad left that his mom suggested him going to a sleep-away camp for a few weeks while she worked. What a drag, he thought. Ryan knew it was only an excuse for his mom to spend more time with her new boyfriend. Though, she had been working overtime recently, and he knew she was at her wits end with his antics during the school year. Either way, he slammed the door in her face, which caused him to be grounded for another week…
+By now, all of the staff knew who he was. From smoking. From the previous weeks of him refusing to engage in camp games, becoming competitive and aggressive if he did play, and other shenanigans--he was the gossip of camp.</quote>
+Summary Details: 
+<context>The summary ascribes desires to the narrator that he does not exhibit in the story.</context>
+<quote>He reflects on his experiences at camp, including getting caught smoking and getting in trouble, and knows that the counselors view him as a problem child. Despite this, he still <bold>wants to fit in and have fun at camp</bold></quote>
+
+Error 14
+Story Details: 
+<context>Rose did not attend the funeral.</context>
+<quote>[Rose] rubbed her glove against her cheek. "I wanted to go to his funeral. I would've gone, if it hadn't meant making a scene…”</quote>
+Summary Details: 
+<context>The summary says the narrator saw Rose at the funeral.</context>
+<quote><bold>At the funeral</bold>, [the narrator meets] Rose…</quote>
+
+Error 15
+Story Details:
+<context>The narrator dies while climbing a mountain in Arkady’s jacket.</context>
+<quote>When I died on May 11th, I couldn't see anything past the blizzard, a muted wash of ice and white, slapping my cheeks red. I breathed in Arkady's red jacket, wrapping it around myself. The cold settled into me. I put the radio up to my lips and said that we had made it to the summit…</quote>
+Summary Details:
+<context>The summary says the narrator purchases the jacket only after the climb.</context>
+<quote>During the climb… On the summit…
+<bold>Upon returning home</bold>, the protagonist purchases Arkady's red jacket</quote>
+
+Error 16
+Story Details: 
+<context>The narrator is a server, and the story describes Dmitry as the bartender.</context>
+<quote>When she went back to the bar and asked Dmitry to mix her orders, he shook his head, apologetic.  
+"You're getting eaten alive out there," he said.</quote>
+Summary Details: 
+<context>The summary says Dmitry is the security guard.</context>
+<quote>…with Dmitry seemingly holding power over Lucia due to his role as a <bold>security guard</bold></quote>
+
+Error 17
+Story Details: 
+<context>Pasha is a cat.</context>
+<quote>White cat hair from Pasha stuck to her blousing.</quote>
+Summary Details: 
+<context>The summary says Pasha is a dog.</context>
+<quote>The story revolves around Clarissa, a museum curator who has recently adopted a <bold>senior dog</bold> named Pasha.</quote>
+
+Error 18
+Story Details:
+<context>The story never names the romantic interest in the story.</context>
+<quote>Seaside light. A feeling of some kind of anxiety. I’m somewhere. I’m me and not me. I’m with someone romantically. I’m with someone romantically on or near a boardwalk. She is my love or my crush.</quote>
+Summary Details: 
+<context>The summary says the woman is named Sarah.</context>
+<quote>the protagonist is romantically involved with a woman named Sarah</quote>
+
+Error 19
+Story Details: 
+<context>The protagonist is a girl who is a talented painter and attends LCU.</context>
+<quote>In rural Colorado, there lived a girl who was an exceptionally talented painter…
+The girl secured a place in the next class at Lakewood Christian University…</quote>
+Summary Details: 
+<context>The summary splits the protagonist into two different girls.</context>
+<quote>A young girl with exceptional artistic talent is homeschooled by her religious parents…
+Later, <bold>we meet another young woman</bold> enrolled at Lakewood Christian University…</quote>
+
+Error 20
+Story Details: 
+<context>The narrator spends the summer house-sitting for a couple that was involved with an underground movement many years ago.</context>
+<quote>Summer of 2016, my third year of college in Chicago, the summer I turned twenty-one, I got a highly-coveted house-sitting job for a well-known couple in Hyde Park who owned a beautiful old brownstone on the shaded 51st Street… I began living alone in their house - former fugitives of the law who enjoyed several years on the FBI's Most Wanted List after becoming leaders of one 70s-era leftist militant organization, The Weather Underground.</quote>
+Summary Details: 
+<context>The summary equates the past and present as though the narrator is experiencing the Ayers’ past life rather than house-sitting alone in the house in the present.</context>
+<quote>The author spent a summer living in the Ayers' home, <bold>experiencing their unconventional lifestyle and witnessing the tensions within the Weather Underground.</bold></quote>

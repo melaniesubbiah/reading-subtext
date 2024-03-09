@@ -1,0 +1,20 @@
+[
+  {
+    "id": "example",
+    "title": "title",
+    "summary": "summary",
+    "model": "gpt4"
+  },
+  {
+    "id": "example",
+    "title": "title",
+    "summary": "summary",
+    "model": "claude"
+  },
+  {
+    "id": "example",
+    "title": "title",
+    "summary": "summary",
+    "model": "llama"
+  }
+]
