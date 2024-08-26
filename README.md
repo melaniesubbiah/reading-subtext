@@ -3,10 +3,8 @@ Code and data for this paper: [Reading Subtext: Evaluating Large Language Models
 
 Annotations of faithfulness errors along with the errors themselves can be found under 'error_annotations'.
 
-Scripts to have models generate summaries, score summaries, and label faithfulness errors are in 'model_scripts'. The generated summary scores are saved in 'summary_scores' and the error labels are in 'error_annotations'.
+Scripts to have models generate summaries, score summaries, and label faithfulness errors are in 'model_scripts'.
 
 The interface for writers to evaluate summaries is in 'streamlit_interface'.
 
-The 'Paper_Results' notebook has code for tables in the paper.
-
-The writer assigned scores, feedback, and story types are in 'writer_ratings_comments.tsv' and 'story_labels.json'.
+The writer assigned scores and feedback are in 'writer_ratings_comments.tsv'.
